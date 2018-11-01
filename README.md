@@ -57,3 +57,4 @@ sudo apt install hashcat
 ```
 
 And you're done!
+Don't forget to stop your instance when you're not using it.
