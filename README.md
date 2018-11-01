@@ -1,4 +1,4 @@
-# Google Cloud Cracking Setup
+# Google Compute Engine Setup
 
 Google Cloud Platform's [Compute Engine](https://console.cloud.google.com/compute/) offers $300 free credit.
 
