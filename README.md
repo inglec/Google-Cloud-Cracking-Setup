@@ -34,6 +34,9 @@ wget http://uk.download.nvidia.com/tesla/410.72/NVIDIA-Linux-x86_64-410.72.run
 sudo /bin/bash NVIDIA-Linux-x86_64-410.72.run
 ```
 
+You may need to restart the instance after installing drivers.
+
+
 Install [JohnTheRipper](https://www.openwall.com/john/):
 
 ```
@@ -51,12 +54,6 @@ Install [Hashcat](https://hashcat.net/hashcat/):
 
 ```
 sudo apt install hashcat
-```
-
-Clone the Git repo:
-
-```
-git clone https://github.com/inglec/infernoballs
 ```
 
 And you're done!
