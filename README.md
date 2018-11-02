@@ -8,7 +8,7 @@ I would recommend `europe-west1`.
 
 You are limited to a single GPU across all instances unless you request a limit increase.
 
-#### Setup
+## Setup
 
 Create a new [VM instance](https://console.cloud.google.com/compute/instances) with the following specs:
 
@@ -57,3 +57,9 @@ sudo apt install hashcat
 
 And you're done!
 Don't forget to stop your instance when you're not using it.
+
+## App
+
+The Cloud Console application is available on both the [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.cloudconsole) and the [App Store](https://itunes.apple.com/us/app/google-cloud-console/id1005120814).
+
+You can SSH into your instances from your phone using this.
