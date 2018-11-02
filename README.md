@@ -33,10 +33,9 @@ wget http://uk.download.nvidia.com/tesla/410.72/NVIDIA-Linux-x86_64-410.72.run
 sudo /bin/bash NVIDIA-Linux-x86_64-410.72.run
 ```
 
-If that version fails, downloading and installing `NVIDIA-Linux-x86_64-396.44.run` is reliable.
-
 You may need to restart the instance after installing drivers.
 
+If that version fails, downloading and installing `NVIDIA-Linux-x86_64-396.44.run` is reliable.
 
 Install [JohnTheRipper](https://www.openwall.com/john/):
 
